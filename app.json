@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "ReactNativeBasic",
-    "description": "+react-navigation, Redux",
+    "name": "ReduxExample",
+    "description": "Try out react-navigation with this awesome Redux example",
     "version": "1.0.0",
-    "slug": "ReactNativeBasic",
+    "slug": "ReduxExample",
     "privacy": "public",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
